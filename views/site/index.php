@@ -11,7 +11,7 @@ $this->title = 'Plantilla Personal';
 
         <p class="lead">.</p>
 
-        <p><a class="btn btn-lg btn-success" href="https://www.yiiframework.com">¡Comencemos!</a></p>
+        <p><a class="btn btn-lg btn-success" href="https://www.yiiframework.com">Diferentes conocimientos de desarrollador</a></p>
     </div>
 
     <div class="body-content">
